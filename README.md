@@ -1,2 +1,2 @@
 # Mail-server-
-Create mail server using nodejs and aws ec2 
+Create simple mail server using nodejs, smtp protocol and aws ec2 
